@@ -14,7 +14,11 @@ void loop() {
   digitalWrite(12, LOW); //DESLIGA LED AMARELO
 
   digitalWrite(11, HIGH); //LIGA LED VERDE
-  delay(4000); //Espera 4 segundos
+  delay(2000); //Espera 2 segundos
+  digitalWrite(11, LOW); //DESLIGA LED VERDE
+
+  digitalWrite(11, HIGH); //LIGA LED VERDE
+  delay(2000); //Espera mais 2 segundos
   digitalWrite(11, LOW); //DESLIGA LED VERDE
 
   digitalWrite(12, HIGH); //LIGA LED AMARELO

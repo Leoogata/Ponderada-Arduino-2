@@ -10,8 +10,6 @@
 | Extra: Implmentou um componente de liga/desliga no semáforo e/ou usou ponteiros no código | Até 1              |  Até 0,5                         | 0                        |             1              |
 |  |                                                             |  | |**Pontuação Total**: 10|
 
-# Avaliação Pares
-
 ### Segundo Avaliador: Wildisley José de Souza Filho
 
 | Critério                                                                                                 | Contempla (Pontos) | Contempla Parcialmente (Pontos) | Não Contempla (Pontos) | Observações do Avaliador |
